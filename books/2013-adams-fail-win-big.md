@@ -1,3 +1,5 @@
+# Scott Adams - How to Fail at Almost Everything and Still Win Big (2013)
+
 Simplifiers and optimizers
 
 - There are two types of people: people who want simple, foolproof plans, and people who try to do as much as they can. In most cases, the plan of an optimizers turns out to be even better than the plan of a simplifier, but in some cases it goes wrong, and more so than the plans of the simplifier.
