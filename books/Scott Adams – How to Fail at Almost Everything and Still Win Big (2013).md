@@ -1,6 +1,6 @@
 Simplifiers and optimizers
 
-– There are two types of people: people who want simple, foolproof plans, and people who try to do as much as they can. In most cases, the plan of an optimizers turns out to be even better than the plan of a simplifier, but in some cases it goes wrong, and more so than the plans of the simplifier.
+- There are two types of people: people who want simple, foolproof plans, and people who try to do as much as they can. In most cases, the plan of an optimizers turns out to be even better than the plan of a simplifier, but in some cases it goes wrong, and more so than the plans of the simplifier.
 
 Health first
 
@@ -56,4 +56,17 @@ Shyness
 
 Grammar
 
-- People often say “less” when they should say “fewer.” For example, it’s bad grammar to
+- People often say “less” when they should say “fewer.”
+
+# Happiness
+
+- Control what you do, and *when* you do it.
+- Being able to control the *what* is not enough.
+- Ex: a nap will do you no good if the only time you can take is before bedtime.
+- Hence the importance of having a job with a flexible schedule.
+- The lack of flexibility explains the misery parents with young children experience, even if they otherwise have plenty of resources.
+
+- Happiness has more to do with where we're headed than where we are.
+- Sport: good because you see improvements.
+- Happiness: health + flexible schedule + expectation of a better future + sleep + diet + exercise.
+- Routine: benefit of reducing the number of choices, which can make on tired and reduce happiness.
