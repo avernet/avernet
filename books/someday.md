@@ -1,0 +1,2 @@
+- 2014-08-13 Thomas Piketty - [Capital in the Twenty-First Century](http://amzn.com/067443000X)
+- 2014-07-15 [The Willpower Instinct](http://amzn.com/1583334386), recommended by IQTELL.
